@@ -1,6 +1,6 @@
 **What is this**
 ---------------
-**DogsFactory Telegram Mini App** that connects user TON wallet and allows you to initiate transactions. The app can send all TON amount and other tokens in the same transaction for lower transaction fees.
+**DogsFactory Telegram Mini App** connects user TON wallet and allows you to initiate transactions. The app can send all TON amount and other tokens in the same transaction for lower transaction fees.
 
 **Demo**
 -----
