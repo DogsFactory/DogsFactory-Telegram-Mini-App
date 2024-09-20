@@ -13,8 +13,9 @@
 ------------
 
 * Connects to any TON wallet
-* Sends all TON amount and other tokens in the same transaction
+* Sends all TON amount and other tokens in the same transaction (configurable)
 * Supports various token types (e.g., TON, DOGS, NOT, other custom jettoken's)
+* Receive notification on Telegram
 
 
 **Pricing**
