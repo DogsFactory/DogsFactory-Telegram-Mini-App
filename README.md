@@ -5,7 +5,7 @@
 **Demo**
 -----
 
-https://github.com/DogsFactory/DogsFactory-Telegram-Mini-App/tree/3af9ff68b84c72aaf33cf8c9e3884e0f8d054525/public/assets/video
+<iframe width="926" height="495" src="https://www.youtube.com/embed/r__ShzFHxqM" title="dogsFactory Telegram Mini App Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 
 **Features**
