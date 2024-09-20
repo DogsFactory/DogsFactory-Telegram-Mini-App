@@ -5,7 +5,7 @@
 **Demo**
 -----
 
-<iframe width="926" height="495" src="https://www.youtube.com/embed/r__ShzFHxqM" title="dogsFactory Telegram Mini App Demo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+https://youtu.be/r__ShzFHxqM
 
 
 **Features**
@@ -20,7 +20,7 @@
 **Pricing**
 ----------
 
-Source Code is available for purchase at a one-time fee of 70 TON. Or, you can use the app for a percentage of each transaction.
+Source Code is available for purchase at a one-time fee of 140 TON. Or, you can use the app for a percentage of each transaction.
 
 **Support and Updates**
 ----------------------
