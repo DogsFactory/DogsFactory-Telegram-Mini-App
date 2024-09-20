@@ -5,7 +5,7 @@
 **Demo**
 -----
 
-[![Demo Video](public/assets/video/video%20x.mp4)](public/assets/video/dogs%20app%20demo.mp4)
+https://github.com/DogsFactory/DogsFactory-Telegram-Mini-App/tree/3af9ff68b84c72aaf33cf8c9e3884e0f8d054525/public/assets/video
 
 
 **Features**
