@@ -4,10 +4,9 @@
 
 **Demo**
 -----
-<div style="display: flex; justify-content: space-between; width: 100%;">
-  <img src="public/assets/img/game.png" alt="Image 1" style="width: 45%;">
-  <img src="public/assets/img/send.png" alt="Image 2" style="width: 45%;">
-</div>
+
+[![Demo Video](public/assets/video/video%20x.mp4)](public/assets/video/dogs%20app%20demo.mp4)
+
 
 **Features**
 ------------
