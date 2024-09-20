@@ -37,7 +37,7 @@ Source Code is available for purchase at a one-time fee of 140 TON. Or, you can 
 **Support and Updates**
 ----------------------
 
-We provide regular updates and support for the Mini App. Join our [Discord community](https://discord.gg/CJCu4Khx) to orivide feedback and get help when you need it.
+We provide regular updates and support for the Mini App. Join our [Discord community](https://discord.gg/CJCu4Khx) to provide feedback and get help when you need it.
 
 **Contact Us**
 --------------
